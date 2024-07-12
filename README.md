@@ -6,7 +6,6 @@ A Developer Passionate About Coding, Creating, and the Wonders of Computer Scien
 
 As a developer deeply passionate about coding, I thrive on the challenge of creating innovative solutions and exploring the vast possibilities of computer science. With a love for programming languages and a keen interest in emerging technologies, I constantly seek to enhance my skills and contribute to meaningful projects. Whether it's crafting efficient algorithms, designing intuitive user interfaces, or diving into the depths of system architecture, my enthusiasm for technology drives me to push boundaries and turn ideas into reality.
 
-* 🌍  I'm based in Israel
 * 🧠  I'm learning rust and cyber security
 * 🤝  I'm open to collaborating on system level project
 

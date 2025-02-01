@@ -6,8 +6,8 @@ A Developer Passionate About Coding, Creating, and the Wonders of Computer Scien
 
 As a developer deeply passionate about coding, I thrive on the challenge of creating innovative solutions and exploring the vast possibilities of computer science. With a love for programming languages and a keen interest in emerging technologies, I constantly seek to enhance my skills and contribute to meaningful projects. Whether it's crafting efficient algorithms, designing intuitive user interfaces, or diving into the depths of system architecture, my enthusiasm for technology drives me to push boundaries and turn ideas into reality.
 
-* 🧠  I'm learning rust and cyber security
-* 🤝  I'm open to collaborating on system level project
+* 🧠  I'm learning cyber security
+* 🤝  I'm open to collaborating on any project
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2V1YWx4ejhnbXRnNjE5MDNjOHZ3b21vYnp3ZHZwd2pydXRrMmV1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AHj0lQstZ9I9W/giphy.webp"  />
 
